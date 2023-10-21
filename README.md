@@ -1,10 +1,9 @@
 # Energy Consumption Prediction with K-Nearest Neighbors (KNN)
 
-![GitHub repo size](https://img.shields.io/github/repo-size/yourusername/your-repo-name)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/your-repo-name)
-![GitHub stars](https://img.shields.io/github/stars/yourusername/your-repo-name)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/your-repo-name)
-
+![GitHub repo size](https://img.shields.io/github/repo-size/hasali-coder/Building-Energy-Consumption-Model-Project)
+![GitHub issues](https://img.shields.io/github/issues/hasali-coder/Building-Energy-Consumption-Model-Project)
+![GitHub stars](https://img.shields.io/github/stars/hasali-coder/Building-Energy-Consumption-Model-Project)
+![GitHub forks](https://img.shields.io/github/forks/hasali-coder/Building-Energy-Consumption-Model-Project)
 ## Overview
 
 This project aims to predict energy consumption in buildings equipped with HVAC systems using the K-Nearest Neighbors (KNN) algorithm. The project leverages various features to estimate energy usage, helping homeowners, businesses, and energy providers optimize energy consumption and reduce costs.
@@ -47,11 +46,11 @@ The project includes the following features:
 
 ## Model Training
 
-We train a predictive model using the Random Forest Regressor to estimate energy consumption based on the provided features. The model's performance is evaluated using metrics such as Mean Absolute Error (MAE), Mean Squared Error (MSE), Root Mean Squared Error (RMSE), and R-squared (R2).
+I train a predictive model using the Random Forest Regressor to estimate energy consumption based on the provided features. The model's performance is evaluated using metrics such as Mean Absolute Error (MAE), Mean Squared Error (MSE), Root Mean Squared Error (RMSE), and R-squared (R2).
 
 ## Results
 
-Our trained model achieved the following results:
+The trained model achieved the following results:
 
 - Mean Absolute Error: 7.61
 - Mean Squared Error: 67.96
