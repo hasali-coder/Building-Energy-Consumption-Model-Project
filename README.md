@@ -27,8 +27,8 @@ The dataset contains information on room area, the number of appliances, outside
 
 To use this project, follow these steps:
 
-1. Clone this repository: `git clone https://github.com/yourusername/your-repo-name.git`
-2. Navigate to the project directory: `cd your-repo-name`
+1. Clone this repository: `git clone https://github.com/hasali-coder/Building-Energy-Consumption-Model-Project/tree/main.git`
+2. Navigate to the project directory: `Building-Energy-Consumption-Model-Project`
 3. Install the required dependencies: `pip install -r requirements.txt`
 4. Run the model training script: `python train_model.py`
 5. Predict energy consumption for new buildings: `python predict_energy.py`
